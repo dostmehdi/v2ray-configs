@@ -1,0 +1,659 @@
+[
+  {
+    "server": "15.204.247.244",
+    "server_port": 4444,
+    "password": "pKEW8JPByTVTLtM",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "38.128.66.32",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Chicago, IL, United States"
+  },
+  {
+    "server": "173.244.56.6",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Phoenix, AZ, United States"
+  },
+  {
+    "server": "38.22.17.219",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "200.102.179.179",
+    "server_port": 8388,
+    "password": "itzvpn@321",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "135.148.42.13",
+    "server_port": 8388,
+    "password": "itzvpn@321",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "209.248.57.105",
+    "server_port": 8388,
+    "password": "AMok40FfaM+Ikwre16psBpVk6JHxsQZw",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 United States"
+  },
+  {
+    "server": "67.220.73.178",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Chicago, IL, United States"
+  },
+  {
+    "server": "149.40.57.133",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "156.146.38.168",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "173.244.56.9",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Phoenix, AZ, United States"
+  },
+  {
+    "server": "185.215.132.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "38.22.17.129",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "67.220.73.247",
+    "server_port": 443,
+    "password": "DGjtV63aPW3E",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Chicago, IL, United States"
+  },
+  {
+    "server": "38.91.107.19",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "38.143.66.146",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Seattle, WA, United States"
+  },
+  {
+    "server": "185.215.132.9",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "95.215.201.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Phoenix, AZ, United States"
+  },
+  {
+    "server": "37.19.198.160",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "15.204.247.244",
+    "server_port": 443,
+    "password": "pKEW8JPByTVTLtM",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "38.91.100.39",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "185.230.230.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Washington, DC, United States"
+  },
+  {
+    "server": "23.150.152.38",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Los Angeles, CA, United States"
+  },
+  {
+    "server": "15.204.246.107",
+    "server_port": 8888,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "15.204.246.108",
+    "server_port": 8881,
+    "password": "kDWvXYZoTBcGkC4",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "38.91.107.188",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "38.91.107.57",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "15.204.246.132",
+    "server_port": 7307,
+    "password": "FoOiGlkAA9yPEGP",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "news.bushyjenz.cyou",
+    "server_port": 42878,
+    "password": "ijoUwfdnkz7mX4pWdkSpmEixTZCt2TRm1JDr4BSaBAWkLxYGoXBHXadFKY5D5ZfoVTwqsx46jCmEUDnQUizJDYrM7B5anhnu",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Santa Clara, CA, United States"
+  },
+  {
+    "server": "193.151.160.9",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "137.184.89.151",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Santa Clara, CA, United States"
+  },
+  {
+    "server": "198.98.53.130",
+    "server_port": 443,
+    "password": "eDfN7SODQceIOmIAbtJJtK",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Staten Island, NY, United States"
+  },
+  {
+    "server": "162.251.62.31",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "216.172.144.199",
+    "server_port": 40643,
+    "password": "Xd4G9xn7AgT88msCYC9MZfavMUqd3dWFNAvswi6KfaD9YcexptMbPn4cSECEMzDgvAMomAWJHyweqJer99ssMVYGH6TK8k4c",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 United States"
+  },
+  {
+    "server": "45.86.51.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Ashburn, VA, United States"
+  },
+  {
+    "server": "172.111.36.123",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "38.22.17.139",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "40.160.86.43",
+    "server_port": 8388,
+    "password": "itzvpn@321",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 United States"
+  },
+  {
+    "server": "193.151.163.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Newark, NJ, United States"
+  },
+  {
+    "server": "38.22.17.214",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "167.88.62.203",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "138.197.89.234",
+    "server_port": 28960,
+    "password": "DZRy4Q3QH0jUGfKFl2jDCZ",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Clifton, NJ, United States"
+  },
+  {
+    "server": "167.88.63.99",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "84.20.27.183",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "15.204.247.206",
+    "server_port": 4444,
+    "password": "pKEW8JPByTVTLtM",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "37.19.198.244",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "149.40.57.135",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "149.40.57.134",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "136.148.77.250",
+    "server_port": 8388,
+    "password": "itzvpn@321",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "15.204.233.41",
+    "server_port": 8882,
+    "password": "kDWvXYZoTBcGkC4",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "15.204.247.175",
+    "server_port": 8008,
+    "password": "XKFKl2rULjIp74",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "172.111.38.72",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Washington, DC, United States"
+  },
+  {
+    "server": "15.204.247.124",
+    "server_port": 2375,
+    "password": "faBAoD54k87UJG7",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "149.40.57.138",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "38.64.138.135",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Chicago, IL, United States"
+  },
+  {
+    "server": "37.19.198.236",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "37.19.198.243",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 New York, NY, United States"
+  },
+  {
+    "server": "104.238.140.45",
+    "server_port": 11051,
+    "password": "JUXsy78dSs6ROkasikmoaL",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Los Angeles, CA, United States"
+  },
+  {
+    "server": "169.197.140.247",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "193.151.160.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "167.17.67.171",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "167.88.62.56",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "156.146.38.169",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "15.204.246.111",
+    "server_port": 5498,
+    "password": "lGqs95QkFHo2NV",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Reston, VA, United States"
+  },
+  {
+    "server": "66.163.125.120",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Miami, FL, United States"
+  },
+  {
+    "server": "38.121.43.18",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "216.106.178.169",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Chicago, IL, United States"
+  },
+  {
+    "server": "38.121.43.231",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "156.146.38.170",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Dallas, TX, United States"
+  },
+  {
+    "server": "38.121.43.225",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "23.230.52.119",
+    "server_port": 42878,
+    "password": "ijoUwfdnkz7mX4pWdkSpmEixTZCt2TRm1JDr4BSaBAWkLxYGoXBHXadFKY5D5ZfoVTwqsx46jCmEUDnQUizJDYrM7B5anhnu",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Santa Clara, CA, United States"
+  },
+  {
+    "server": "167.88.63.39",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Atlanta, GA, United States"
+  },
+  {
+    "server": "169.197.142.68",
+    "server_port": 19999,
+    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+    "method": "aes-256-gcm",
+    "plugin": "",
+    "plugin_opts": null,
+    "remarks": "🇺🇸 Santa Clara, CA, United States"
+  }
+]
